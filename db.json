@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "edfhj",
+      "username": "tyf",
+      "email": "tyfg@gmail.com",
+      "phone": "srtyu",
+      "website": "erty",
+      "create_date": "2023-06-06",
+      "id": 7
+    },
+    {
+      "name": "Amit TRIPATHI",
+      "username": "retert",
+      "email": "tamit1316@gmail.com",
+      "phone": "09554349235",
+      "website": "2345",
+      "create_date": "2023-06-30",
+      "id": 8
+    },
+    {
+      "name": "Abhi",
+      "username": "adgfgf",
+      "email": "zoperkart@gmail.com",
+      "phone": "09554349235",
+      "website": "sdafghjkl",
+      "create_date": "2023-06-15",
+      "id": 9
+    }
+  ]
+}
